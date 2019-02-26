@@ -1,6 +1,7 @@
 - Learning Javascript!
+본 프로젝트는 javascript 공부 목적입니다.
 
-> version 1.0
+> 주위! 코드에 지저븐하게 주석이 많을 수 있습니다.
 
 ---
 
