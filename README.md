@@ -22,6 +22,6 @@ I learn starting basic  algorithms and data structures and then increase my prob
 
 <br/>
 
-- 공부하는데 참고하는 Git 주소
+- 참고하는 
 >https://www.geeksforgeeks.org/binary-search-in-javascript/  
 >https://github.com/Shahrukh-Zindani/Javascript-coding-problems-datastructures
